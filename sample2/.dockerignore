@@ -1,0 +1,6 @@
+# For Docker
+Dockerfile
+
+# For node.js
+node_modules
+
